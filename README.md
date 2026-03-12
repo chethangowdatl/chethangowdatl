@@ -1,4 +1,4 @@
-#🙏 Hi ,I'm Chethan Gowda T L
+# 🙏 Hi ,I'm Chethan Gowda T L
 🔭 I’m currently Studying Diploma In Information Science and Tech<br>🤝 I’m looking for help to learn more<br>🌱 I’m currently working on AI and Data Science Domain<br>⚡ I'm Like to learn Database
 
 
