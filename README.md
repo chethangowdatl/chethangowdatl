@@ -1,5 +1,5 @@
 # 🙏 Hi ,I'm Chethan Gowda T L 
-I’m Python Developer(backend) <br>❤️ I love continues Learning<br>🌱 I’m currently working on AI and Data Science Domain<br>⚡ I'm like to Become An AI Data Scientist and More
+👉 I’m Python Developer(backend) <br>❤️ I love continues Learning<br>🌱 I’m currently working on AI and Data Science Domain<br>⚡ I'm like to Become An AI Data Scientist and More
 
 
 ## 🌐 Socials:
